@@ -5,3 +5,5 @@
 - hit load
 - hit play
 - pause and loop at will
+
+purpose of this project was to learn java GUI and messing with audio files
